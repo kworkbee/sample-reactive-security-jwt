@@ -1,0 +1,4 @@
+service:
+  jwt:
+    secret: 4FD9CC01F01A111DBB8EC8A79113B
+    expirationTime: 60000
